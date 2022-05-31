@@ -1,0 +1,333 @@
+*
+{
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color:  white;
+    text-align: left;
+    background-color: #1f263b ;
+    text-decoration: none;
+}
+
+
+header
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 30px 70px;
+    z-index: 9999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: 0.5s;
+}
+header ul {
+    position:relative;
+    display: flex;
+  }
+  
+   header ul li {
+    position: relative;
+    list-style: none;
+    
+  }
+  
+  header ul li a {
+    position: relative; 
+    display: inline-block;
+     margin: 0 40px;
+     color: white;
+    text-decoration: none;
+  }  
+  header ul li a:hover
+  {
+    color: #58f0f0;
+  }
+  img
+  {
+    width: 230px;
+  }
+  header ul  li img
+  {
+     margin: 0 0px;
+     list-style: none;
+
+  }
+  .header .SDGDS
+  {
+    color: #58f0f0;
+  }
+
+
+/* .bhs1
+{
+    display: flex;
+    justify-content: space-between;
+} */
+.bahasa5 a
+{
+  color: #58f0f0;
+   text-decoration: underline;
+   font-size: 18px;
+   font-weight: 400;
+   text-shadow: 0 8px 24px rgba(26,201,218,.56);
+}
+.bahasa3
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 490px;  
+}
+.bahasa4 h1
+{
+    font-size: 16px;
+    font-family: sans-serif;
+    
+}
+.bahasa6 a
+{
+    font-size: 16px;
+    font-family: sans-serif;
+    
+    
+}
+.bahasa6 a:hover
+{
+  color: #58f0f0;
+}
+.bahasa2 h1
+{
+    font-size: 50px;
+    text-align: center;
+    /* font-family: sans-serif; */
+    font-weight: 600;
+    color: #58f0f0;
+    text-shadow: 0 8px 24px rgba(26,201,218,.56);
+}
+.burung 
+{
+    padding: 0 555px;
+}
+.burung img
+{
+    width: 120px;
+}
+.burungdpr
+{
+   padding: 0 525px;
+   
+}
+.burungdpr h1
+{
+  font-size: 30px;
+  font-weight: 600;
+}
+.burung2
+{
+   display: flex;
+   justify-content: space-between;
+   padding: 0 20px;
+}
+.portal p
+{
+    color: rgba(255,  255, 255, 0.8);
+    line-height: 30px;
+}
+
+
+
+
+.buku
+{
+    padding: 0 565px;
+}
+.buku img
+{
+    width: 120px;
+}
+.bukudpr
+{
+   padding: 0 505px;
+   
+}
+.bukudpr h1
+{
+  font-size: 30px;
+  font-weight: 600;
+}
+.buku2
+{
+   display: flex;
+   justify-content: space-between;
+   padding: 0 20px;
+}
+.bukuportal p
+{
+    color: rgba(255,  255, 255, 0.8);
+    line-height: 30px;
+}
+
+
+.bunga
+{
+    padding: 0 565px;
+}
+.bunga img
+{
+    width: 90px;
+}
+.bungadpr
+{
+   padding: 0 505px;
+   
+}
+.bungadpr h1
+{
+  font-size: 30px;
+  font-weight: 600;
+}
+.bunga2
+{
+   display: flex;
+   justify-content: space-between;
+   padding: 0 20px;
+}
+.bungaportal p
+{
+    color: rgba(255,  255, 255, 0.8);
+    line-height: 40px;
+}
+.bungaportal .pakar
+{
+    line-height: 30px;
+   
+}
+
+.regulasi h1
+{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+}
+.regulasi p
+{
+    text-align: center;
+    color: rgba(255,  255, 255, 0.8);
+    line-height: 30px;
+}
+.fex
+{
+    display: flex;
+    justify-content: space-between;
+}
+.btn
+{
+    font-size: 20px;
+  background: linear-gradient(100.88deg,#24b9f2 33.29%,#58f0f0 109.22%);
+  box-shadow: 0 8px 24px rgba(26,201,218,.44);
+   border-radius: 8px; 
+  color: #101d35;
+  font-weight: 600;
+  border: none;
+  padding: 10px;
+  margin: 50px;
+  
+}
+
+.last1
+{
+  display: flex;
+  justify-content: space-between;
+  padding: 0 100px;
+ 
+}
+
+ .last1 .dpr img
+{
+  width: 80px;
+}
+
+.last1 .fty
+{
+  margin-top: 12px;
+}
+.last1 .dpr h1
+{
+  font-weight: 600;
+}
+.last1 .dpr p
+{
+  font-size: 13px;
+  color: rgba(255,  255, 255, 0.5);
+}
+.last1 .dpr5 h3
+{
+  font-size: 14px;
+  color: #58f0f0;
+}
+.last1 .dpr5 a
+{
+  font-size: 12px;
+}
+.last1 .dpr5 a:hover
+{
+  color: #58f0f0;
+}
+
+.last1 .dpr4 h3
+{
+  font-size: 14px;
+  color: #58f0f0;
+}
+.last1 .dpr4 a
+{
+  font-size: 12px;
+}
+.last1 .dpr4 a:hover
+{
+  color: #58f0f0;
+}
+.last1 .dpr3 h3
+{
+  font-size: 14px;
+  color: #58f0f0;
+}
+.last1 .dpr3 a
+{
+  font-size: 12px;
+}
+.last1 .dpr3 a:hover
+{
+  color: #58f0f0;
+}
+.last1 .dpr2 h3
+{
+  font-size: 14px;
+  color: #58f0f0;
+}
+.last1 .dpr2 a
+{
+  font-size: 12px;
+}
+.last1 .dpr2 a:hover
+{
+  color: #58f0f0;
+} 
+
+.copy
+{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 200px;
+}
+.copy h1
+{
+  font-size: 14px;
+  color: rgba(255,  255, 255, 0.8);
+}
+
